@@ -48,7 +48,6 @@ Key features include:
 ### 🔹 `index.html`
 
 - Contains the full HTML for a floating chatbot interface
-- Uses **Tailwind CSS** via CDN for styling
 - Fixed chat window with toggling open/close behavior
 - Integrates live interaction via `fetch` to the backend endpoint
 
