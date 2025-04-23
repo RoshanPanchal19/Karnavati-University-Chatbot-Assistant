@@ -8,7 +8,7 @@ Welcome to the  **Karnavati University Assistant Chatbot** — a dynamic, web-ba
 GROUP MEMBERS :-
 
 - Panchal Roshan      [ID :- KU2407U365] <br>
-- Bhavyakumar Patel   [ID :- KU2407U266] <br>
+- Bhavykumar Patel    [ID :- KU2407U266] <br>
 - Aksh Patel          [ID :- KU2407U250] <br>
 - Neer Patel          [ID :- KU2407U347] <br>
 
