@@ -124,15 +124,13 @@ Try typing these into the chatbot:
 - "Where is the campus?"
 - "Any hostels?"
 ```
-```
+
 
 ---
 
 ## 📸 UI Preview
 
 ![Chatbot UI Preview](./chatbot-ui-preview.png)
-
----
 
 ---
 
