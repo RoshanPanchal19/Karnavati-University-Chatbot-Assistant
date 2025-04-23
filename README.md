@@ -11,7 +11,6 @@ GROUP MEMBERS :-
 - Bhavyakumar Patel   [ID :- KU2407U266] <br>
 - Aksh Patel          [ID :- KU2407U250] <br>
 - Neer Patel          [ID :- KU2407U347] <br>
-- Neel Sewani         [ID :- KU2407U338] <br>
 
 ---
 
