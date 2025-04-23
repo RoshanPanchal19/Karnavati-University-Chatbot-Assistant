@@ -123,9 +123,6 @@ Try typing these into the chatbot:
 - "Placement support?"
 - "Where is the campus?"
 - "Any hostels?"
-```
-
-```
 
 ---
 
